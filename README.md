@@ -136,4 +136,7 @@ Over the years, the gap between top-performing and developing countries is narro
 5. Incorporating Audience and Social Media Data: Integrate social media mentions, audience engagement, and public sentiment analysis to evaluate the popularity of different sports, athletes, and events throughout the Olympics.
 6. Optimization for Large Data: Improve dashboard performance when handling large datasets by optimizing data models, reducing file size, and incorporating efficient query techniques for smoother user experience.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 

@@ -46,9 +46,6 @@ The dataset used for this project has been sourced from Kaggle. It contains deta
 
           - Convert data types: Ensure data is in the correct format (e.g., convert date columns to datetime, numeric columns to integers/floats).
           - Feature engineering: Create new useful features, such as total medals per country, athlete performance per event, etc.
-
-      - #### **Data Transforamtion**
-
           - Detect and manage outliers: Identify extreme values in medal counts, athlete performance, or participation rates that may skew the analysis. Address them appropriately by transforming or removing them if they are errors.
 
       - #### **Data Integration**
